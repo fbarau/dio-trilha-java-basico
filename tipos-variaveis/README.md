@@ -1,3 +1,16 @@
+# Estudos DIO - JAVA BÁSICO
+
+Meu estudos de Java Básico para desenvolvimento de background na linguagem.
+
+1º Anatomia das classes ✅
+2º Tipos e Variáveis ✅
+3º Operadores
+4º Métodos
+5º Escopo
+6º Palavras Reservadas
+7º Java DOC
+8º Terminal e Argumentos
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
