@@ -2,14 +2,14 @@
 
 Meu estudos de Java Básico para desenvolvimento de background na linguagem.
 
-1º Anatomia das classes ✅
-2º Tipos e Variáveis ✅
-3º Operadores
-4º Métodos
-5º Escopo
-6º Palavras Reservadas
-7º Java DOC
-8º Terminal e Argumentos
+- Anatomia das classes ✅
+- Tipos e Variáveis ✅
+- Operadores
+- Métodos
+- Escopo
+- Palavras Reservadas
+- Java DOC
+- Terminal e Argumentos
 
 ## Getting Started
 
