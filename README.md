@@ -11,6 +11,6 @@ Meu estudos de Java Básico para desenvolvimento de background na linguagem.
 - Métodos ✅
 - Escopo ✅
 - Palavras Reservadas ✅
-- Java DOC
-  * [Links da documentação para estudos](https://docs.oracle.com/javase/7/docs/api/overview-summary.html)
+- Java DOC ✅
+  * [Link da documentação para estudos](https://docs.oracle.com/javase/7/docs/api/overview-summary.html)
 - Terminal e Argumentos
